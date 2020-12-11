@@ -51,6 +51,6 @@ __Q5.__ Are the top 50 longest working employees facing gender discrimination ?
 
 __Q6.__ Are the top 50 longest working employees facing racial discrimination ?
 
-__Q7.__ We should check for each department is there gender discrimination ?
+__Q7.__ We should check for each position is there gender discrimination ?
 
-__Q8.__ We should check for each department is there racial discrimination ?
+__Q8.__ We should check for each position is there racial discrimination ?
