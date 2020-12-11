@@ -5,7 +5,7 @@ Spark Foundation Inc is a well renounded company. They have over 5000 employees 
 We are going to test if there is a significant difference in their salaries, based on gender. We will use hypothesis test for mean salaries to check for gender discrimination.
 We will further analyze is there a race or age discrimination as well.
 
-## Let's begin our Hypothesis Testing.
+# Let's begin our Hypothesis Testing.
 
 Before proceeding lets assess the situations. The all of the condition satisfies :
 * Unknown Variance, since sample data and assumed to be equal
@@ -35,7 +35,7 @@ __*Thumb Rule*__
     
 </br>
 
-__Questions and Hypothesis.__
+## Questions
 
 For each case we consider 2 tail test, because of our hypothesis.
 
