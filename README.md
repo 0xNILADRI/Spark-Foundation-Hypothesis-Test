@@ -2,7 +2,7 @@
 
 If you find it helpful, hit that ⭐ button.
 
-[![Preview](hypothesis.jpg)](https://github.com/afkniladri/Spark-Foundation-Hypothesis-Test/blob/main/data)
+[![Preview](hypothesis.jpg)](https://github.com/afkniladri/Spark-Foundation-Hypothesis-Test/blob/main/data/)
 
 Spark Foundation Inc is a well renounded company. They have over 5000 employees all across the globe. Out of which we managed to accumlate data for 174 people (samle) on a random basis. We have data showing us their name, age, gender, nationality, ethenicity, tenure, department, department, position and annual salary. 
 
