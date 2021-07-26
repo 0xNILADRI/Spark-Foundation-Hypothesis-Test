@@ -1,5 +1,9 @@
 # Spark Foundation Hypothesis Test
 
+If you find it helpful, hit that ⭐ button.
+
+[![Preview](hypothesis.jpg)](https://github.com/afkniladri/Spark-Foundation-Hypothesis-Test/blob/main/data)
+
 Spark Foundation Inc is a well renounded company. They have over 5000 employees all across the globe. Out of which we managed to accumlate data for 174 people (samle) on a random basis. We have data showing us their name, age, gender, nationality, ethenicity, tenure, department, department, position and annual salary. 
 
 We are going to test if there is a significant difference in their salaries, based on gender. We will use hypothesis test for mean salaries to check for gender discrimination.
@@ -23,21 +27,9 @@ __Process :__
 6. T Statistic Value 
 7. Calculate P Value
 
-__We choose significance value of 0.05, 95%. α = 0.05__
-
-</br>
-
-
-__*Thumb Rule*__
-
-1. If T score greater than 2, or lower than -2 we can easily reject the null Hypothesis.
-2. P value lower than 0.0000 is extreamly significant, although we consider only upto 3.
-    
-</br>
 
 ## Questions
 
-For each case we consider 2 tail test, because of our hypothesis.
 
 __Q1.__ Is there any gender wage gap in the organisation ?
 
