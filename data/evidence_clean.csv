@@ -1,0 +1,175 @@
+Age,Gender,Ethnicity,Start_date,Position,Salary
+51,Male,White,2011-08-15,Software Engineering Manager,56160.0
+30,Female,White,2013-11-11,Software Engineer,116480.0
+31,Female,White,2012-05-11,Software Engineer,102440.0
+34,Male,White,2014-07-07,Software Engineer,99840.0
+38,Female,White,2014-10-11,Software Engineer,99008.0
+27,Female,White,2014-05-05,Sales Manager,112320.0
+51,Female,White,2014-05-05,Director of Sales,124800.0
+27,Female,White,2013-09-30,Area Sales Manager,118560.0
+43,Male,White,2014-12-05,Area Sales Manager,116480.0
+63,Male,White,2014-12-05,Area Sales Manager,115440.0
+42,Male,White,2014-09-29,Area Sales Manager,114400.0
+54,Female,White,2014-08-18,Area Sales Manager,114400.0
+29,Female,White,2011-10-01,Area Sales Manager,114400.0
+30,Female,White,2012-02-20,Area Sales Manager,114400.0
+28,Female,White,2015-02-16,Area Sales Manager,114400.0
+38,Male,White,2013-08-19,Area Sales Manager,114400.0
+35,Male,White,2015-05-01,Area Sales Manager,114400.0
+50,Male,White,2006-09-01,Area Sales Manager,114400.0
+31,Male,White,2010-08-30,Production Technician II,60320.0
+27,Female,White,2011-04-04,Production Technician II,56160.0
+25,Male,White,2011-07-11,Production Technician II,56160.0
+32,Female,White,2014-10-11,Production Technician II,54891.2
+40,Male,White,2011-04-04,Production Technician II,54080.0
+30,Female,White,2015-03-30,Production Technician II,54080.0
+48,Female,White,2014-07-07,Production Technician II,52000.0
+32,Male,White,2014-07-07,Production Technician II,50440.0
+28,Female,White,2014-07-07,Production Technician II,49920.0
+29,Male,White,2013-11-11,Production Technician II,49920.0
+34,Male,White,2014-09-29,Production Technician II,45760.0
+54,Male,White,2014-09-29,Production Technician II,45760.0
+32,Female,White,2014-09-29,Production Technician II,45760.0
+53,Female,White,2013-11-11,Production Technician I,50960.0
+36,Female,White,2012-09-01,Production Technician I,49920.0
+40,Female,White,2011-11-28,Production Technician I,49920.0
+40,Female,White,2012-09-01,Production Technician I,47840.0
+31,Female,White,2012-02-20,Production Technician I,47840.0
+43,Female,White,2013-11-11,Production Technician I,47840.0
+34,Male,White,2013-09-30,Production Technician I,45760.0
+47,Female,White,2011-04-04,Production Technician I,45760.0
+34,Male,White,2013-08-07,Production Technician I,45760.0
+34,Female,White,2014-02-17,Production Technician I,45760.0
+43,Male,White,2014-10-11,Production Technician I,44200.0
+29,Female,White,2008-07-01,Production Technician I,43680.0
+35,Male,White,2014-12-05,Production Technician I,43680.0
+39,Male,White,2014-03-31,Production Technician I,43680.0
+51,Female,White,2013-09-30,Production Technician I,43680.0
+34,Male,White,2011-05-07,Production Technician I,41600.0
+50,Male,White,2014-07-07,Production Technician I,41600.0
+43,Female,White,2014-12-05,Production Technician I,41600.0
+45,Female,White,2012-05-11,Production Technician I,41600.0
+40,Female,White,2011-05-31,Production Technician I,41600.0
+41,Female,White,2015-03-30,Production Technician I,41600.0
+38,Female,White,2014-12-05,Production Technician I,40560.0
+32,Male,White,2015-03-30,Production Technician I,39520.0
+34,Male,White,2012-08-13,Production Technician I,39520.0
+53,Female,White,2014-06-01,Production Technician I,39520.0
+42,Male,White,2013-09-30,Production Technician I,39520.0
+33,Female,White,2013-08-07,Production Technician I,39520.0
+35,Male,White,2015-05-01,Production Technician I,39520.0
+28,Male,White,2015-11-05,Production Technician I,37440.0
+25,Female,White,2013-11-11,Production Technician I,35360.0
+31,Male,White,2012-09-07,Production Technician I,35360.0
+31,Female,White,2014-06-01,Production Technician I,35360.0
+44,Female,White,2010-04-26,Production Technician I,35360.0
+33,Male,White,2013-08-07,Production Technician I,35360.0
+43,Female,White,2014-06-01,Production Technician I,35360.0
+31,Female,White,2012-02-04,Production Technician I,34840.0
+47,Male,White,2012-02-04,Production Technician I,33280.0
+28,Female,White,2014-07-07,Production Technician I,33280.0
+67,Female,White,2014-09-29,Production Technician I,33280.0
+27,Female,White,2013-08-19,Production Technician I,33280.0
+41,Male,White,2013-09-30,Production Technician I,33280.0
+56,Male,White,2014-06-01,Production Technician I,33280.0
+49,Female,White,2012-02-20,Production Technician I,33280.0
+40,Female,White,2015-05-01,Production Technician I,32760.0
+40,Male,White,2013-08-07,Production Technician I,31200.0
+39,Female,White,2012-02-07,Production Technician I,31200.0
+38,Male,White,2012-02-07,Production Technician I,31200.0
+33,Female,White,2013-01-04,Production Technician I,31200.0
+32,Female,White,2013-08-19,Production Technician I,31200.0
+34,Male,White,2016-01-28,Production Manager,114400.0
+36,Female,White,2013-09-30,Production Manager,114400.0
+49,Male,White,2011-01-08,Production Manager,113360.0
+36,Male,White,2015-02-06,Production Manager,112320.0
+42,Male,White,2010-07-20,Production Manager,110240.0
+42,Female,White,2012-02-10,Production Manager,108160.0
+44,Female,White,2014-09-18,Production Manager,106080.0
+52,Male,White,2014-10-11,Sr. Network Engineer,110240.0
+48,Male,White,2015-03-30,Network Engineer,102128.0
+36,Female,White,2014-09-30,Network Engineer,97760.0
+30,Male,White,2015-05-01,Network Engineer,93600.0
+30,Male,White,2015-03-30,Network Engineer,89440.0
+28,Male,White,2015-03-30,Network Engineer,87360.0
+36,Female,White,2015-05-01,Network Engineer,81120.0
+29,Female,White,2015-05-01,Network Engineer,76960.0
+38,Female,White,2015-02-16,Network Engineer,56160.0
+49,Female,White,2010-01-05,IT Support,65312.0
+32,Male,White,2012-05-09,IT Support,60299.2
+47,Male,White,2014-05-01,IT Manager - Support,133120.0
+44,Male,White,2013-01-20,IT Manager - DB,128960.0
+31,Male,White,2015-03-30,Database Administrator,87776.0
+36,Female,White,2015-02-16,Database Administrator,82264.0
+33,Female,White,2015-03-30,Database Administrator,70720.0
+38,Female,White,2015-03-30,Database Administrator,65312.0
+47,Male,White,2015-05-01,Database Administrator,62816.0
+38,Female,White,2010-10-04,CIO,135200.0
+63,Female,White,2012-02-07,President & CEO,166400.0
+38,Female,White,2009-05-01,Sr. Accountant,72696.0
+33,Male,White,2016-05-01,Shared Services Manager,114400.0
+32,Female,White,2015-02-16,Administrative Assistant,44720.0
+29,Female,White,2015-01-05,Administrative Assistant,34444.8
+31,Male,White,2014-09-29,Accountant I,60320.0
+48,Male,Two or more races,2011-07-03,Area Sales Manager,115440.0
+42,Male,Two or more races,2014-09-29,Area Sales Manager,114400.0
+28,Female,Two or more races,2013-08-07,Area Sales Manager,114400.0
+26,Female,Two or more races,2011-05-07,Area Sales Manager,114400.0
+38,Male,Two or more races,2011-07-11,Production Technician II,52000.0
+34,Male,Two or more races,2012-02-20,Production Technician I,34860.8
+37,Female,Two or more races,2014-09-29,Production Technician I,33280.0
+35,Female,Two or more races,2011-10-01,Production Technician I,29120.0
+29,Female,Two or more races,2011-01-21,IT Support,54080.0
+36,Male,Hispanic,2012-08-16,Production Manager,110240.0
+31,Male,Hispanic,2012-02-15,IT Manager - Infra,131040.0
+38,Female,Black or African American,2012-09-01,Software Engineer,118809.6
+33,Male,Black or African American,2014-05-18,Sales Manager,116480.0
+29,Male,Black or African American,2014-08-18,Area Sales Manager,116480.0
+47,Male,Black or African American,2012-05-14,Area Sales Manager,116480.0
+54,Male,Black or African American,2011-06-09,Area Sales Manager,114400.0
+29,Male,Black or African American,2012-04-30,Area Sales Manager,114400.0
+29,Female,Black or African American,2012-09-01,Area Sales Manager,114400.0
+52,Female,Black or African American,2014-09-29,Area Sales Manager,114400.0
+28,Female,Black or African American,2010-09-27,Area Sales Manager,112320.0
+43,Male,Black or African American,2013-05-13,Production Technician II,60320.0
+39,Female,Black or African American,2014-07-07,Production Technician II,56160.0
+35,Female,Black or African American,2013-08-19,Production Technician II,54288.0
+37,Female,Black or African American,2012-05-03,Production Technician II,52000.0
+47,Female,Black or African American,2013-05-13,Production Technician II,52000.0
+30,Female,Black or African American,2014-02-17,Production Technician II,49920.0
+31,Female,Black or African American,2011-05-07,Production Technician II,46800.0
+41,Male,Black or African American,2014-08-18,Production Technician II,45760.0
+34,Female,Black or African American,2011-05-16,Production Technician I,49920.0
+31,Female,Black or African American,2013-07-01,Production Technician I,49920.0
+50,Female,Black or African American,2013-02-18,Production Technician I,49920.0
+29,Female,Black or African American,2011-03-10,Production Technician I,45760.0
+39,Female,Black or African American,2013-07-01,Production Technician I,45760.0
+38,Male,Black or African American,2014-02-17,Production Technician I,45760.0
+29,Female,Black or African American,2014-09-29,Production Technician I,43680.0
+34,Male,Black or African American,2014-03-31,Production Technician I,41600.0
+27,Female,Black or African American,2015-03-30,Production Technician I,39520.0
+36,Male,Black or African American,2007-05-11,Production Technician I,35360.0
+48,Male,Black or African American,2011-11-07,Production Technician I,33280.0
+40,Male,Black or African American,2014-02-17,Production Technician I,29120.0
+39,Female,Black or African American,2009-08-01,Production Manager,114400.0
+34,Female,Black or African American,2009-05-01,Director of Operations,124800.0
+44,Female,Black or African American,2011-10-06,IT Support,57179.2
+37,Male,Black or African American,2011-04-15,IT Director,135200.0
+29,Male,Black or African American,2014-10-11,Database Administrator,73840.0
+32,Female,Black or African American,2008-10-27,Accountant I,59280.0
+33,Male,Black or African American,2014-06-01,Accountant I,47840.0
+30,Female,Asian,2013-11-11,Software Engineer,115460.8
+28,Male,Asian,2012-05-03,Area Sales Manager,116480.0
+38,Female,Asian,2012-02-04,Production Technician II,54080.0
+59,Female,Asian,2013-08-19,Production Technician I,45760.0
+45,Female,Asian,2011-11-28,Production Technician I,45760.0
+32,Male,Asian,2014-02-17,Production Technician I,45760.0
+35,Male,Asian,2012-05-14,Production Technician I,43680.0
+37,Male,Asian,2011-10-01,Production Technician I,43680.0
+37,Male,Asian,2013-08-07,Production Technician I,37440.0
+50,Female,Asian,2013-01-04,Production Technician I,31200.0
+39,Female,Asian,2014-09-29,Production Technician I,31200.0
+49,Female,Asian,2012-05-14,Production Technician I,29120.0
+39,Female,Asian,2015-03-30,Sr. Network Engineer,114816.0
+33,Female,Asian,2014-10-11,Database Administrator,88920.0
+30,Female,Asian,2015-02-16,Sr. Accountant,72696.0
